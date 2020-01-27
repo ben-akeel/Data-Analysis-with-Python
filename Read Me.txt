@@ -1,0 +1,3 @@
+ This folder contains the work done in the course "Data Analysis with Python" by IBM.
+ I have included the practical ipython files and the final assignment. 
+ All the .csv files used in the practical and final assignments are in the dataset folder. 
